@@ -144,7 +144,7 @@ aside{
     color: #ffffff;
 }
 
-#online-reputation-management {
+.online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -166,11 +166,11 @@ aside{
     max-height: 200px;
 }
 
-#online-reputation-management img {
+.online-reputation-management img {
     max-height: 200px;
 }
 
-#social-media-marketing img {
+.social-media-marketing img {
     max-height: 200px;
 }
 
